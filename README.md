@@ -27,7 +27,7 @@
 ## 📫 How to Reach Me
 You can reach me at the email in my GitHub profile or on my socials! Feel free to follow or connect if you like :)
 
-[![Follow Oosecurity on LinkedIn](https://github.com/Oosecurity/Profile/blob/main/linkedin.png)](https://linkedin.com/in/oscar-ozog)
+[<img src="https://github.com/Oosecurity/Profile/blob/main/linkedin.png" height="40em" align="center" alt="Follow Oosecurity on LinkedIn" title="Follow Oosecurity on LinkedIn"/>](https://linkedin.com/in/oscar-ozog)
 
 ## 📫 My Other Accounts
 - Hackerone: [sp3c053](https://hackerone.com/sp3c053)
@@ -36,7 +36,7 @@ You can reach me at the email in my GitHub profile or on my socials! Feel free t
 - TryHackMe: [Sp3c053](https://tryhackme.com/p/Sp3c053)
 - VulnLab: Active, no link
 
-## ⚡ Cool Things in This Profile README
+## ⚡ Cool Things used in the profile
 - Typing intro with [TypeIt, Vue ParticleJs, and Vue.js](https://codesandbox.io/s/readme-introgif-9fjo5)
 - Profile visit count from [VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded)
 - Monospaced text from [YayText](https://yaytext.com/monospace/)
