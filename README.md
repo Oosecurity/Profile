@@ -18,22 +18,23 @@
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- None yet :)
 
+- 🌐 Most Used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oosecurity&langs_count=8)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Oosecurity?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 or at 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜! You can follow or connect if you like :)
 
 [<img src="https://github.com/Oosecurity/Profile/blob/main/linkedin.png" height="40em" align="center" alt="Follow Oosecurity on LinkedIn" title="Follow Oosecurity on LinkedIn"/>](https://linkedin.com/in/oscar-ozog)
 
 ## 📫 My other accounts:
-Hackerone: https://hackerone.com/sp3c053
-Bugcrowd: https://bugcrowd.com/Sp3c053
-HacktheBox: https://app.hackthebox.com/profile/387548
-TryHackMe: https://tryhackme.com/p/Sp3c053
-VulnLab: Active no link
+- Hackerone: https://hackerone.com/sp3c053
+- Bugcrowd: https://bugcrowd.com/Sp3c053
+- HacktheBox: https://app.hackthebox.com/profile/387548
+- TryHackMe: https://tryhackme.com/p/Sp3c053
+- VulnLab: Active no link
 
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
