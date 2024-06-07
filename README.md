@@ -5,5 +5,5 @@ Thanks for visiting my profile. I hope you will find something useful. 😀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oosecurity&theme=dracula&show_icons=true&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 Bug bounty:
-* https://hackerone.com/Oosecurity
-* https://bugcrowd.com/Oosecurity
+* https://hackerone.com/Sp3c053
+* https://bugcrowd.com/Sp3c053
